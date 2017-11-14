@@ -6,7 +6,7 @@ kiana-desktop
 ## 运行方法 ##
 
 ### 二进制 ###
-Windows下载解压缩后运行`kiana-desktop.exe`,Linux运行`./kiana-desktop`.
+Windows下载解压缩后运行`kiana-desktop.exe`, Linux运行`./kiana-desktop`. macOS 俺不知道。
 * [Windows x86](https://github.com/BennyThink/kiana-desktop/raw/master/dist/kiana-desktop-win32-ia32)
 * [Windows x64](https://github.com/BennyThink/kiana-desktop/raw/master/dist/kiana-desktop-linux-x64.7z)
 * [Linux x64](https://github.com/BennyThink/kiana-desktop/raw/master/dist/kiana-desktop-linux-x64.7z)
@@ -14,8 +14,8 @@ Windows下载解压缩后运行`kiana-desktop.exe`,Linux运行`./kiana-desktop`.
 
 ### 手动运行 ###
 或者使用npm安装electron，然后一下二选其一：
-* 在应用目录打开命令行，输入electron .
-* 在命令行输入electron,启动一个Electron窗口，并把mian.js拖入窗口中。
+* 在应用目录打开命令行，输入`electron .`
+* 在命令行输入`electron`,启动一个Electron窗口，并把`main.js`拖入窗口中。
 
 ## 打包命令 ##
 使用`electron-packager`模块
