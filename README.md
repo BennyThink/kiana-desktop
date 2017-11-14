@@ -6,7 +6,12 @@ kiana-desktop
 ## 运行方法 ##
 
 ### 二进制 ###
-在release下下载对应的二进制
+Windows下载解压缩后运行`kiana-desktop.exe`,Linux运行`./kiana-desktop`.
+* [Windows x86](https://github.com/BennyThink/kiana-desktop/raw/master/dist/kiana-desktop-win32-ia32)
+* [Windows x64](https://github.com/BennyThink/kiana-desktop/raw/master/dist/kiana-desktop-linux-x64.7z)
+* [Linux x64](https://github.com/BennyThink/kiana-desktop/raw/master/dist/kiana-desktop-linux-x64.7z)
+* [macOS](https://github.com/BennyThink/kiana-desktop/raw/master/dist/kiana-desktop-darwin-x64.7z)
+
 ### 手动运行 ###
 或者使用npm安装electron，然后一下二选其一：
 * 在应用目录打开命令行，输入electron .
