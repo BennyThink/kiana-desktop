@@ -1,0 +1,8 @@
+{
+  "name": "kiana-desktop",
+  "version": "0.0.1",
+  "main": "main.js",
+  "scripts": {
+    "package": "electron-packager ./ kiana-desktop --platform=win32,darwin,linux --out dist --arch=all --electron-version=1.7.9 --overwrite --ignore=node_modules"
+  }
+}
