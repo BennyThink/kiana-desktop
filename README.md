@@ -3,14 +3,13 @@ kiana-desktop
 
 使用Electron构建
 
+## demo ##
+[右下角戳](https://www.bennythink.com/)
 ## 运行方法 ##
 
 ### 二进制 ###
+在[这里](https://github.com/BennyThink/kiana-desktop/releases)下载对应系统的release
 Windows下载解压缩后运行`kiana-desktop.exe`, Linux运行`./kiana-desktop`. macOS 俺不知道。
-* [Windows x86](https://github.com/BennyThink/kiana-desktop/raw/master/dist/kiana-desktop-win32-ia32)
-* [Windows x64](https://github.com/BennyThink/kiana-desktop/raw/master/dist/kiana-desktop-win32-x64.7z)
-* [Linux x64](https://github.com/BennyThink/kiana-desktop/raw/master/dist/kiana-desktop-linux-x64.7z)
-* [macOS](https://github.com/BennyThink/kiana-desktop/raw/master/dist/kiana-desktop-darwin-x64.7z)
 
 ### 手动运行 ###
 或者使用npm安装electron，然后一下二选其一：
